@@ -1,12 +1,12 @@
 # Termux Banner
-#Script by Parixit Sutariya
+#Script by TECHNICAL HACKING
 
 Installation Step :
 
-1) git clone https://github.com/Bhai4You/Termux-Banner
+1) git clone https://github.com/rsdraju99/banner
 
 
-2) cd Termux-Banner
+2) cd banner
 
 
 3) chmod +x requirement.sh
